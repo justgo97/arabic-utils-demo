@@ -1,2 +1,3 @@
-# vite-react-boilerplate
-vite react boilerplate, includes typescript, sass, bootstrap, eslint import
+# arabic-utils demo
+
+This repository hosts the demo website of [arabic-utils](https://github.com/justgo97/arabic-utils/) package
